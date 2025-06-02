@@ -1,0 +1,6 @@
+{
+    "name": "SleepySceneTool",
+    "includePlatforms": [
+        "Editor"
+    ]
+}
