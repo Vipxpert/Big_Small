@@ -1,4 +1,7 @@
-# Big_Small
+# Big Small
+
+DISCLAIMER: ALL GAME ASSETS (INCLUDING MUSIC AND ARTS) ALL MADE BY THE AUTHOR ORIGINALLY
+
 ![image](https://github.com/user-attachments/assets/bb665500-419c-4010-99c0-3d2912791514)
 Game main page
 ![image](https://github.com/user-attachments/assets/a8223f62-f940-4294-a779-1858923e8481)
